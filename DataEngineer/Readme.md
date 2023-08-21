@@ -34,6 +34,7 @@ Then we proceeded to create the logical design of the relational model. The tabl
 
 # ETL in detail
 <img src='/images/Pipeline ETL.png'>
+
 # Justification of the data:
 
 - Electricity_cost: Data compiled from the EIA in its Electricity Data section.
