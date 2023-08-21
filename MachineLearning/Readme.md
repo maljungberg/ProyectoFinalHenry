@@ -28,6 +28,7 @@ The points were chosen based on the results of figure 1. For the construction of
 A table with the information of latitude and longitude of the chosen points with some features such as load capacity) and  PowerBi was used to make an interactive map with the points. On the map, the points can be seen according to the load capacity. (Fig 2.)
 
 [![caracteri-sticas-mas-populares.png](https://i.postimg.cc/8CfMvSrQ/caracteri-sticas-mas-populares.png)](https://postimg.cc/mcRPxKw8)
+
 Fig 1. Most relevant features for the location of charging points in Holland. 
 
 
